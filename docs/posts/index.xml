@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Damini Patel</title>
+<link>https://daminiunh.github.io/Data_Science_806_Website/posts/</link>
+<atom:link href="https://daminiunh.github.io/Data_Science_806_Website/posts/index.xml" rel="self" type="application/rss+xml"/>
+<description>Data Science for Life Science | MCBT @ UNH</description>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Wed, 29 Oct 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>What I Learned from My First Media Preparation</title>
+  <link>https://daminiunh.github.io/Data_Science_806_Website/posts/2025-10-29-media-prep-lessons.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Preparing SFM4CHO medium for the first time taught me the importance of precision and patience.<br>
+From weighing NaHCO₃ to filtering through a 0.2 µm membrane, small steps make big differences in culture performance.</p>
+<p>This experience showed me that lab work is part science, part art — and every successful experiment starts with careful preparation.</p>
+
+
+
+ ]]></description>
+  <category>Lab Skills</category>
+  <category>Cell Culture</category>
+  <guid>https://daminiunh.github.io/Data_Science_806_Website/posts/2025-10-29-media-prep-lessons.html</guid>
+  <pubDate>Wed, 29 Oct 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://daminiunh.github.io/Data_Science_806_Website/posts/media-prep.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Visualizing Life Sciences Data with R</title>
+  <link>https://daminiunh.github.io/Data_Science_806_Website/posts/2025-10-29-visualizing-life-sciences-data.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>R has completely changed the way I look at biological data.<br>
+Using <strong>ggplot2</strong>, I can turn complex experimental results into clear visual stories.</p>
+<p>From growth curves to viability counts, visualization reveals patterns we often miss in spreadsheets.<br>
+I’ll share a few plots I made recently for cell viability and media comparison — stay tuned for the full analysis!</p>
+
+
+
+ ]]></description>
+  <category>Data Science</category>
+  <category>R Programming</category>
+  <guid>https://daminiunh.github.io/Data_Science_806_Website/posts/2025-10-29-visualizing-life-sciences-data.html</guid>
+  <pubDate>Tue, 28 Oct 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://daminiunh.github.io/Data_Science_806_Website/posts/data-viz.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Inside the Cell Culture Lab</title>
+  <link>https://daminiunh.github.io/Data_Science_806_Website/posts/2025-10-29-inside-cell-culture-lab.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Working in the cell culture lab feels like exploring a living world under glass.<br>
+From maintaining CHO and SKOV3 lines to prepping media with L-Glutamine and Poloxamer 188, every step matters.</p>
+<p>In this post, I reflect on how precision, sterility, and observation shape reliable data — and why contamination control is more than a checklist, it’s a mindset.</p>
+
+
+
+ ]]></description>
+  <category>Cell Culture</category>
+  <category>Biotechnology</category>
+  <guid>https://daminiunh.github.io/Data_Science_806_Website/posts/2025-10-29-inside-cell-culture-lab.html</guid>
+  <pubDate>Mon, 27 Oct 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://daminiunh.github.io/Data_Science_806_Website/posts/cell-culture.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome to my blog</title>
+  <link>https://daminiunh.github.io/Data_Science_806_Website/posts/2025-10-29-welcome.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is my first post! I’ll share R tips, data-viz experiments, and biotech notes here.</p>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <guid>https://daminiunh.github.io/Data_Science_806_Website/posts/2025-10-29-welcome.html</guid>
+  <pubDate>Sun, 26 Oct 2025 04:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

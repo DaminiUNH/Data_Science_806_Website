@@ -1,0 +1,8 @@
+---
+title: "Welcome to my blog"
+date: 2025-10-26
+categories: [updates]
+# draft: false         # ← ensure it's NOT set to true
+---
+
+This is my first post! I’ll share R tips, data-viz experiments, and biotech notes here.

@@ -1,9 +1,74 @@
 ---
 title: "Projects"
+about:
+  id: projects
+  template: broadside
+  image: img/img:logo.png
+  
 ---
 
-## Project 1
+:::{#projects}
 
-## Project 2
 
-## Project 3
+## 🧬 Featured Projects
+
+Here’s a look at some of my favorite **data science** and **biotech** projects — combining research, analysis, and storytelling.
+
+
+---
+
+### 🐠 Coral Reef Biodiversity (2006–2015)
+
+-**Goal:** Understand long-term biodiversity trends in coral reef fish communities.  
+-**Tools:** R, tidyverse, ggplot2  
+
+**Highlights:**
+- Processed BioTIME dataset (French Polynesia)
+- Computed annual species richness & total abundance
+- Visualized biodiversity changes over a decade  
+
+📄 *Read full report:* [Coral Reef Biodiversity Analysis](docs/Temporal_Trends_Coral_Reef_Biodiversity.pdf)
+
+
+---
+
+
+### 🧫 CHO Cell Growth & Media Optimization
+
+-**Goal:** Compare serum-free vs. supplemented media in CHO cell culture.  
+
+**Focus Areas:**
+- Media prep (HyClone SFM4CHO + L-Glutamine)
+- Cell viability and karyotyping
+- Data visualization using R (growth curves)  
+
+📊 *Includes:* Lonza medium protocol & cell viability results.
+
+---
+
+
+### 🐧 Palmer Penguins Analysis
+
+-**Goal:** Explore species patterns and morphometrics in penguins 🐧.  
+-**Tools:** R, dplyr, ggplot2, tidyr  
+
+**Highlights:**
+- Cleaned and transformed datasets
+- Compared bill and flipper lengths between species
+- Produced polished plots for publication.
+
+---
+
+### 💻 Other Mini Projects
+
+- 📈 *Non-parametric Tests in SAS*: comparing basophil differences across visits  
+
+- 📊 *Line & bar charts in R*: visualization practice using mock biomedical data  
+
+- 🧠 *R Markdown Automation*: building reproducible pipelines for lab reporting  
+
+---
+
+*All projects emphasize reproducibility, visualization, and scientific communication.*
+
+:::

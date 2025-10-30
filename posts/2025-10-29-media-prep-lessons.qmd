@@ -1,0 +1,11 @@
+---
+title: "What I Learned from My First Media Preparation"
+date: 2025-10-29
+categories: [Lab Skills, Cell Culture]
+image: media-prep.jpg
+---
+
+Preparing SFM4CHO medium for the first time taught me the importance of precision and patience.  
+From weighing NaHCO₃ to filtering through a 0.2 µm membrane, small steps make big differences in culture performance.
+
+This experience showed me that lab work is part science, part art — and every successful experiment starts with careful preparation.

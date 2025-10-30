@@ -1,0 +1,12 @@
+---
+title: "Visualizing Life Sciences Data with R"
+date: 2025-10-28
+categories: [Data Science, R Programming]
+image: data-viz.jpg
+---
+
+R has completely changed the way I look at biological data.  
+Using **ggplot2**, I can turn complex experimental results into clear visual stories.
+
+From growth curves to viability counts, visualization reveals patterns we often miss in spreadsheets.  
+I’ll share a few plots I made recently for cell viability and media comparison — stay tuned for the full analysis!

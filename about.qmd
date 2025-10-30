@@ -1,0 +1,55 @@
+---
+title: "About Me"
+about:
+  id: about
+  template: broadside
+  image: img/My Photo.jpg
+  
+---
+
+:::{#about}
+
+## Hi, I’m Damini Patel 👩‍🔬
+
+I’m a **Molecular & Cellular Biotechnology** student at the **University of New Hampshire (UNH)**, where I combine **cell culture research** with **data science** to explore how biotechnology can make meaningful impacts on health and innovation.  
+
+I love analyzing biological data, visualizing scientific trends, and documenting experiments through reproducible R workflows.
+
+---
+
+### 🎓 Education
+
+- **University of New Hampshire (UNH)**  
+  *M.S. in Molecular & Cellular Biotechnology*  
+  
+  Focus: *Cell Culture, Biochemistry, and Data Science for Life Sciences*
+
+
+---
+
+### 🔬 Research & Lab Focus
+
+- CHO & SKOV3 mammalian cell culture and viability analysis - Karyotyping and mitotic index calculations  
+- Media optimization with serum-free formulations  
+- Data visualization and statistical modeling in R  
+
+
+---
+
+### 💡 Beyond the Lab
+
+When I’m not in the lab, I enjoy making **trending reels**, writing **short captions**, and sharing creative snippets about **science and motivation**.  
+I’m passionate about helping others understand the beauty of biotechnology and data-driven discovery.
+
+
+---
+
+
+### 🌐 Connect with Me
+
+📧 [Daminiben.Patel@unh.edu](mailto:Daminiben.Patel@unh.edu)  
+💼 [GitHub](https://github.com/DaminiUNH)  
+🔗 [LinkedIn](www.linkedin.com/in/damini-patelunh)  
+
+
+:::

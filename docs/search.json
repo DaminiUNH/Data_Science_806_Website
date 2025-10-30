@@ -1,23 +1,79 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to my blog! Newest posts first.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat I Learned from My First Media Preparation\n\n\n\n\n\n\n\n\nOct 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Life Sciences Data with R\n\n\n\n\n\n\n\n\nOct 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nInside the Cell Culture Lab\n\n\n\n\n\n\n\n\nOct 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my blog\n\n\n\n\n\n\n\n\nOct 26, 2025\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
+    "objectID": "posts/2025-10-29-visualizing-life-sciences-data.html",
+    "href": "posts/2025-10-29-visualizing-life-sciences-data.html",
+    "title": "Visualizing Life Sciences Data with R",
+    "section": "",
+    "text": "R has completely changed the way I look at biological data.\nUsing ggplot2, I can turn complex experimental results into clear visual stories.\nFrom growth curves to viability counts, visualization reveals patterns we often miss in spreadsheets.\nI’ll share a few plots I made recently for cell viability and media comparison — stay tuned for the full analysis!"
+  },
+  {
+    "objectID": "posts/2025-10-29-inside-cell-culture-lab.html",
+    "href": "posts/2025-10-29-inside-cell-culture-lab.html",
+    "title": "Inside the Cell Culture Lab",
+    "section": "",
+    "text": "Working in the cell culture lab feels like exploring a living world under glass.\nFrom maintaining CHO and SKOV3 lines to prepping media with L-Glutamine and Poloxamer 188, every step matters.\nIn this post, I reflect on how precision, sterility, and observation shape reliable data — and why contamination control is more than a checklist, it’s a mindset."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "section": "",
+    "text": "Here’s a look at some of my favorite data science and biotech projects — combining research, analysis, and storytelling.\n\n\n\n-Goal: Understand long-term biodiversity trends in coral reef fish communities.\n-Tools: R, tidyverse, ggplot2\nHighlights: - Processed BioTIME dataset (French Polynesia) - Computed annual species richness & total abundance - Visualized biodiversity changes over a decade\n📄 Read full report: Coral Reef Biodiversity Analysis\n\n\n\n\n-Goal: Compare serum-free vs. supplemented media in CHO cell culture.\nFocus Areas: - Media prep (HyClone SFM4CHO + L-Glutamine) - Cell viability and karyotyping - Data visualization using R (growth curves)\n📊 Includes: Lonza medium protocol & cell viability results.\n\n\n\n\n-Goal: Explore species patterns and morphometrics in penguins 🐧.\n-Tools: R, dplyr, ggplot2, tidyr\nHighlights: - Cleaned and transformed datasets - Compared bill and flipper lengths between species - Produced polished plots for publication.\n\n\n\n\n\n📈 Non-parametric Tests in SAS: comparing basophil differences across visits\n📊 Line & bar charts in R: visualization practice using mock biomedical data\n🧠 R Markdown Automation: building reproducible pipelines for lab reporting\n\n\nAll projects emphasize reproducibility, visualization, and scientific communication."
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Here’s a look at some of my favorite data science and biotech projects — combining research, analysis, and storytelling.\n\n\n\n-Goal: Understand long-term biodiversity trends in coral reef fish communities.\n-Tools: R, tidyverse, ggplot2\nHighlights: - Processed BioTIME dataset (French Polynesia) - Computed annual species richness & total abundance - Visualized biodiversity changes over a decade\n📄 Read full report: Coral Reef Biodiversity Analysis\n\n\n\n\n-Goal: Compare serum-free vs. supplemented media in CHO cell culture.\nFocus Areas: - Media prep (HyClone SFM4CHO + L-Glutamine) - Cell viability and karyotyping - Data visualization using R (growth curves)\n📊 Includes: Lonza medium protocol & cell viability results.\n\n\n\n\n-Goal: Explore species patterns and morphometrics in penguins 🐧.\n-Tools: R, dplyr, ggplot2, tidyr\nHighlights: - Cleaned and transformed datasets - Compared bill and flipper lengths between species - Produced polished plots for publication.\n\n\n\n\n\n📈 Non-parametric Tests in SAS: comparing basophil differences across visits\n📊 Line & bar charts in R: visualization practice using mock biomedical data\n🧠 R Markdown Automation: building reproducible pipelines for lab reporting\n\n\nAll projects emphasize reproducibility, visualization, and scientific communication."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "I’m a Molecular & Cellular Biotechnology student at the University of New Hampshire (UNH), passionate about cell culture, data science, and biotech innovation.\nThis website is my space to share projects, data visualization, and my learning journey in R and life sciences.\n\n\n\nM.S. in Molecular and Cellular Biotechnology, University of New Hampshire (UNH)\nFocus: Cell Culture, Biochemistry, and Data Science for Life Sciences\n\n\n\n\n\nMammalian cell culture & media optimization\n\nQuantitative biology using R and data visualization\n\nBiotechnology applications in regenerative medicine\n\n\n\n\n\n\n🐠 Coral Reef Biodiversity (2006–2015) — Time-series analysis using R\n🧬 CHO Cell Growth — Serum-free media prep & viability tracking\n🐧 Palmer Penguins — End-to-end R workflow and data cleaning\n\n\n\n\n\n📧 Daminiben.Patel@unh.edu\n💼 GitHub\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#hi-im-damini",
+    "href": "index.html#hi-im-damini",
+    "title": "Welcome",
+    "section": "",
+    "text": "I’m a Molecular & Cellular Biotechnology student at the University of New Hampshire (UNH), passionate about cell culture, data science, and biotech innovation.\nThis website is my space to share projects, data visualization, and my learning journey in R and life sciences.\n\n\n\nM.S. in Molecular and Cellular Biotechnology, University of New Hampshire (UNH)\nFocus: Cell Culture, Biochemistry, and Data Science for Life Sciences\n\n\n\n\n\nMammalian cell culture & media optimization\n\nQuantitative biology using R and data visualization\n\nBiotechnology applications in regenerative medicine\n\n\n\n\n\n\n🐠 Coral Reef Biodiversity (2006–2015) — Time-series analysis using R\n🧬 CHO Cell Growth — Serum-free media prep & viability tracking\n🐧 Palmer Penguins — End-to-end R workflow and data cleaning\n\n\n\n\n\n📧 Daminiben.Patel@unh.edu\n💼 GitHub"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "I’m a Molecular & Cellular Biotechnology student at the University of New Hampshire (UNH), where I combine cell culture research with data science to explore how biotechnology can make meaningful impacts on health and innovation.\nI love analyzing biological data, visualizing scientific trends, and documenting experiments through reproducible R workflows.\n\n\n\n\nUniversity of New Hampshire (UNH)\nM.S. in Molecular & Cellular Biotechnology\nFocus: Cell Culture, Biochemistry, and Data Science for Life Sciences\n\n\n\n\n\n\nCHO & SKOV3 mammalian cell culture and viability analysis - Karyotyping and mitotic index calculations\n\nMedia optimization with serum-free formulations\n\nData visualization and statistical modeling in R\n\n\n\n\n\nWhen I’m not in the lab, I enjoy making trending reels, writing short captions, and sharing creative snippets about science and motivation.\nI’m passionate about helping others understand the beauty of biotechnology and data-driven discovery.\n\n\n\n\n📧 Daminiben.Patel@unh.edu\n💼 GitHub\n🔗 LinkedIn"
+  },
+  {
+    "objectID": "about.html#hi-im-damini-patel",
+    "href": "about.html#hi-im-damini-patel",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a Molecular & Cellular Biotechnology student at the University of New Hampshire (UNH), where I combine cell culture research with data science to explore how biotechnology can make meaningful impacts on health and innovation.\nI love analyzing biological data, visualizing scientific trends, and documenting experiments through reproducible R workflows.\n\n\n\n\nUniversity of New Hampshire (UNH)\nM.S. in Molecular & Cellular Biotechnology\nFocus: Cell Culture, Biochemistry, and Data Science for Life Sciences\n\n\n\n\n\n\nCHO & SKOV3 mammalian cell culture and viability analysis - Karyotyping and mitotic index calculations\n\nMedia optimization with serum-free formulations\n\nData visualization and statistical modeling in R\n\n\n\n\n\nWhen I’m not in the lab, I enjoy making trending reels, writing short captions, and sharing creative snippets about science and motivation.\nI’m passionate about helping others understand the beauty of biotechnology and data-driven discovery.\n\n\n\n\n📧 Daminiben.Patel@unh.edu\n💼 GitHub\n🔗 LinkedIn"
+  },
+  {
+    "objectID": "posts/2025-10-29-welcome.html",
+    "href": "posts/2025-10-29-welcome.html",
+    "title": "Welcome to my blog",
+    "section": "",
+    "text": "This is my first post! I’ll share R tips, data-viz experiments, and biotech notes here."
+  },
+  {
+    "objectID": "posts/2025-10-29-media-prep-lessons.html",
+    "href": "posts/2025-10-29-media-prep-lessons.html",
+    "title": "What I Learned from My First Media Preparation",
+    "section": "",
+    "text": "Preparing SFM4CHO medium for the first time taught me the importance of precision and patience.\nFrom weighing NaHCO₃ to filtering through a 0.2 µm membrane, small steps make big differences in culture performance.\nThis experience showed me that lab work is part science, part art — and every successful experiment starts with careful preparation."
   }
 ]

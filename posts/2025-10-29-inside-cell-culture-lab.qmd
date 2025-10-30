@@ -1,0 +1,11 @@
+---
+title: "Inside the Cell Culture Lab"
+date: 2025-10-27
+categories: [Cell Culture, Biotechnology]
+image: cell-culture.jpg
+---
+
+Working in the cell culture lab feels like exploring a living world under glass.  
+From maintaining CHO and SKOV3 lines to prepping media with L-Glutamine and Poloxamer 188, every step matters.
+
+In this post, I reflect on how precision, sterility, and observation shape reliable data — and why contamination control is more than a checklist, it’s a mindset.

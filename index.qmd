@@ -1,18 +1,55 @@
 ---
-title: "About Me"
+title: "Welcome"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/img:me.jpg
+  
+
 ---
+
 
 :::{#me}
 
-## Goals
+## Hi, I'm Damini 👋
 
-## Education
+I'm a **Molecular & Cellular Biotechnology** student at the **University of New Hampshire (UNH)**, passionate about **cell culture**, **data science**, and **biotech innovation**.
 
-## Experience
+This website is my space to share **projects**, **data visualization**, and my **learning journey** in R and life sciences.
+
+
+### Education 🎓
+
+- **M.S. in Molecular and Cellular Biotechnology, University of New Hampshire (UNH)**
+- **Focus: Cell Culture, Biochemistry, and Data Science for Life Sciences**
+
+
+
+### 🧫 Research Interests
+
+- Mammalian cell culture & media optimization  
+- Quantitative biology using R and data visualization  
+- Biotechnology applications in regenerative medicine  
+
+---
+
+### 💻 Featured Work
+
+- 🐠 *Coral Reef Biodiversity (2006–2015)* — Time-series analysis using R  
+
+- 🧬 *CHO Cell Growth* — Serum-free media prep & viability tracking  
+
+- 🐧 *Palmer Penguins* — End-to-end R workflow and data cleaning
+
+
+---
+
+
+### 🌐 Connect with Me
+
+📧 [Daminiben.Patel@unh.edu](mailto:Daminiben.Patel@unh.edu)  
+💼 [GitHub](https://github.com/DaminiUNH)
+
 
 :::
 
